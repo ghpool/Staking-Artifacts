@@ -1,8 +1,8 @@
 cat > ghpoolMetaData.json << EOF
 {
 "name": "Global-Harmony Pool",
-"description": "Pool for a crypto-driven decentralized world of Liberty, Prosperity and Global Harmony",
+"description": "Pool of Aspirants for a Crypto(ADA)-driven decentralized world of Liberty, Prosperity and Global Harmony",
 "ticker": "GLOBE",
-"homepage": "https://globalharmony.crypto"
+"homepage": "http://www.global-harmony.live/"
 }
 EOF
